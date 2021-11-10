@@ -16,7 +16,7 @@ En este repositorio subiré mis avances durante el curso.
 
 
 
-<img src="https://user-images.githubusercontent.com/91011630/141120802-49d56c8c-2e50-4614-af81-4bc6b6c0f34d.png" width=800 />
+<img src="https://user-images.githubusercontent.com/91011630/141120802-49d56c8c-2e50-4614-af81-4bc6b6c0f34d.png"/>
 
 ###
 
