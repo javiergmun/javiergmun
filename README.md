@@ -6,7 +6,7 @@
 - Actualmente cursando Desarrollo de Aplicaciones Multiplataforma en IES Luis Vives de Leganés, Madrid.
 En este repositorio subiré mis avances durante el curso.
 
-- Formandome en el manejo de Java, Android, Git, Docker, desarrollo web y acceso a datos, interfaces Swing y JavaFX principalmente.
+- Formándome en el manejo de Java, Android, Git, Docker, desarrollo web y acceso a datos, interfaces Swing y JavaFX principalmente.
 
 - Soy miembro del proyecto Erasmus+ "YouroTrip" 2020. Asistente a la movilidad europea de Portugal 2021 como representación de España.
 
