@@ -1,5 +1,5 @@
 
-![Portada de Facebook Foto de Montañas Nevadas](https://user-images.githubusercontent.com/91011630/141113664-ac26c6fe-e0a0-4292-bc1f-95915e6915d6.png)
+![git](https://user-images.githubusercontent.com/91011630/150139929-ea9e8f25-0584-44a6-a33c-25b8948614ba.png)
 
 
 # Acerca de mi... 💻
