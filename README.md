@@ -6,9 +6,9 @@
 
 # Acerca de mi... 💻
 - Actualmente cursando Desarrollo de Aplicaciones Multiplataforma en IES Luis Vives de Leganés, Madrid.
-En este repositorio subiré mis avances durante el curso.
+En este repositorio encontrarás la evolución de mi aprendizaje además de la mayoría de proyectos y prácticas finales.
 
-- Formándome en el manejo de Java, Android, Git, Docker, desarrollo web y acceso a datos con JPA entre otras, interfaces Swing y JavaFX principalmente.
+- Programando en Java, Python, Kotlin. Mis repositorios tratan proyectos backend y frontend. Podrás consultar desde la creación de una API REST usando SpringBoot, pasando por el control y estructura de bases de datos relacionales/no relacionales usando MySQL/MongoDB hasta acabar con interfaces de usuario para escritorio y para movil que consultan y muestran los datos creados en las APIs.
 
 - Soy miembro del proyecto Erasmus+ "YouroTrip" 2020. Asistente a la movilidad europea de Portugal 2021 como representación de España.
 
