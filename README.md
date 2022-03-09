@@ -1,7 +1,8 @@
 
-![Portada de Facebook Foto de Montañas Nevadas](https://user-images.githubusercontent.com/91011630/152158739-cd3504c9-00f1-4244-b528-bde4641b08a1.png)
+![Portada :)](https://user-images.githubusercontent.com/91011630/152158739-cd3504c9-00f1-4244-b528-bde4641b08a1.png)
 
 
+![](https://komarev.com/ghpvc/?username=javiergmun&color=orange&style=for-the-badge)
 
 # Acerca de mi... 💻
 - Actualmente cursando Desarrollo de Aplicaciones Multiplataforma en IES Luis Vives de Leganés, Madrid.
