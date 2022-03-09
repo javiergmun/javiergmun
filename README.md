@@ -14,7 +14,8 @@ En este repositorio encontrarás la evolución de mi aprendizaje además de la m
 
 - Tengo 3 años de experiencia impartiendo clases particulares de física y matemáticas para todo tipo de cursos. Especialmente 2º de bachillerato en vistas del examen de selectividad. Disfruto personalmente de estas horas que comparto con ellos y en especial al notar la evolución que tienen a lo largo del curso. Me gusta contagiarles mi entusiasmo y motivación a la hora de afrontar estas asignaturas.
 
-- Emprendiendo en "Playpadel". Pequeña cuenta en las redes sociales con la finalidad de organizar eventos de padel. En este proyecto doy rienda suelta a mi creatividad e inquietudes en el mundo del padel. ( ig: @playpadel_ )
+- Emprendiendo en "Playpadel". Pequeña cuenta en las redes sociales con la finalidad de organizar eventos de padel. En este proyecto doy rienda suelta a mi creatividad e inquietudes en el mundo del padel.
+- <a href="https://www.instagram.com/playpadel_/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@playpadel_</a>
 
 
 
