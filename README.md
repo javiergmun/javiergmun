@@ -9,6 +9,22 @@
 En este repositorio encontrarás la evolución de mi aprendizaje además de la mayoría de proyectos y prácticas finales.
 
 - Programando en Java, Python, Kotlin. Mis repositorios tratan proyectos backend y frontend. Podrás consultar desde la creación de una API REST usando SpringBoot, pasando por el control y estructura de bases de datos relacionales/no relacionales usando MySQL/MongoDB hasta acabar con interfaces de usuario para escritorio y para movil que consultan y muestran los datos creados en las APIs.
+<h3>He trabajado con...</h3>
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white&labelColor=crimson" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=crimson" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=crimson" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=crimson" />
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-EA4C89?style=for-the-badge&logo=canva&logoColor=white&labelColor=crimson" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&labelColor=crimson" />
+  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=crimson" />
+  <img alt="IntellliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=crimson" />
+  <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=crimson" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=crimson" />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=crimson" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=crimson" />
+ 
+</p>
 
 - Soy miembro del proyecto Erasmus+ "YouroTrip" 2020. Asistente a la movilidad europea de Portugal 2021 como representación de España.
 
