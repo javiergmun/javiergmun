@@ -34,6 +34,13 @@ En este repositorio encontrarás la evolución de mi aprendizaje además de la m
 - <a href="https://www.instagram.com/playpadel_/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@playpadel_</a>
 
 
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergmun&theme=vue&layout=compact">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergmun&theme=vue&layout=compact" height="175"/>
+  </a>  
+</p>
+
+
 
 <img src="https://user-images.githubusercontent.com/91011630/141120802-49d56c8c-2e50-4614-af81-4bc6b6c0f34d.png"/>
 
