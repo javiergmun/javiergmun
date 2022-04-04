@@ -1,10 +1,9 @@
-
-![Portada :)](https://user-images.githubusercontent.com/91011630/152158739-cd3504c9-00f1-4244-b528-bde4641b08a1.png)
-
-
-![](https://komarev.com/ghpvc/?username=javiergmun&color=1319b0&style=for-the-badge&label=VISITAS+AL+PERFIL)
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/91011630/152158739-cd3504c9-00f1-4244-b528-bde4641b08a1.png"/>
+</p>
 
 # Acerca de mi... 💻
+![](https://komarev.com/ghpvc/?username=javiergmun&color=1319b0&style=for-the-badge&label=VISITAS+AL+PERFIL)
 - Actualmente cursando Desarrollo de Aplicaciones Multiplataforma en IES Luis Vives de Leganés, Madrid.
 En este repositorio encontrarás la evolución de mi aprendizaje además de la mayoría de proyectos y prácticas finales.
 
@@ -41,8 +40,7 @@ En este repositorio encontrarás la evolución de mi aprendizaje además de la m
 </p>
 
 
-
-<img src="https://user-images.githubusercontent.com/91011630/141120802-49d56c8c-2e50-4614-af81-4bc6b6c0f34d.png"/>
-
-###
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91011630/141120802-49d56c8c-2e50-4614-af81-4bc6b6c0f34d.png"/>
+</p>
 
