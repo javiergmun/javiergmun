@@ -35,7 +35,7 @@ En este repositorio encontrarás la evolución de mi aprendizaje además de la m
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergmun&theme=vue&layout=compact">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergmun&theme=vue&layout=compact" height="175"/>
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergmun&theme=vue&layout=compact" height="174"/>
   </a>  
 </p>
 
